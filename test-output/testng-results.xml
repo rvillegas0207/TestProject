@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-30T15:54:09 PST" name="Default suite" finished-at="2022-06-30T15:54:11 PST" duration-ms="1561">
+    <groups>
+    </groups>
+    <test started-at="2022-06-30T15:54:09 PST" name="Default test" finished-at="2022-06-30T15:54:11 PST" duration-ms="1561">
+      <class name="test.SampleTest">
+        <test-method is-config="true" signature="initializer()[pri:0, instance:test.SampleTest@32b260fa]" started-at="2022-06-30T15:54:08 PST" name="initializer" finished-at="2022-06-30T15:54:09 PST" duration-ms="1389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializer -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:test.SampleTest@32b260fa]" started-at="2022-06-30T15:54:09 PST" name="openBrowser" finished-at="2022-06-30T15:54:10 PST" duration-ms="1486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="sampleTest()[pri:0, instance:test.SampleTest@32b260fa]" started-at="2022-06-30T15:54:10 PST" name="sampleTest" finished-at="2022-06-30T15:54:11 PST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.SampleTest@32b260fa]" started-at="2022-06-30T15:54:11 PST" name="closeBrowser" finished-at="2022-06-30T15:54:15 PST" duration-ms="4239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.SampleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
